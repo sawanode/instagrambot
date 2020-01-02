@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "instagram-web-api": "^2.1.0",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0",
+    "telegraf": "^3.35.0",
+    "tough-cookie-filestore2": "^1.0.0",
+    "user": "0.0.0"
+  }
+}
